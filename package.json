@@ -1,9 +1,9 @@
 {
   "name": "@tsnomad/datastore",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Datastore, model and adapter contracts, the TypeScript counterpart to PHPNomad's datastore package",
   "type": "module",
-  "license": "GPL-3.0-or-later",
+  "license": "MIT",
   "homepage": "https://github.com/tsnomad/datastore#readme",
   "bugs": {
     "url": "https://github.com/tsnomad/datastore/issues"
